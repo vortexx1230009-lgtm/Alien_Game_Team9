@@ -1,5 +1,4 @@
 """Kiber-Şəbəkə Qoruyucusu üçün Firewall gəmiləri və hərəkət fizikası modulu."""
-
 import pygame
 from pygame.sprite import Sprite
 from settings import get_folder_images, load_clean_sprite
