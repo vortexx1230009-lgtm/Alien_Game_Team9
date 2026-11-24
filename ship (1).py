@@ -2,7 +2,6 @@
 import pygame
 from pygame.sprite import Sprite
 from settings import get_folder_images, load_clean_sprite
-
 SHIP_CATALOG = [
     {
         "id": 0,
